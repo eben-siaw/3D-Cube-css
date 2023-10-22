@@ -19,7 +19,7 @@ To view the 3D rotating cube, simply open the `index.html` file in a modern web 
 
 ## Tutorial
 
-The step-by-step tutorial for this project is available on [YouTube]. The tutorial covers everything from setting up the HTML structure to adding CSS styles and animations.
+The step-by-step tutorial for this project is available on https://youtu.be/ycEBX2NSc7k [YouTube]. The tutorial covers everything from setting up the HTML structure to adding CSS styles and animations.
 
 ## Contributing
 
